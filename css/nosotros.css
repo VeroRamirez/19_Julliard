@@ -1,0 +1,134 @@
+/* Inserta tu codigo aqui */
+.fnd-nos-1{
+	background-image: url("../img/dance_7.jpg");
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+}
+.fnd-nos-2{
+	background-image: url("../img/tile2.png");
+	height: 400px;
+}
+.fnd-nos-3{
+	background-image: url("../img/tile2.png");
+	height: 200px;
+}
+.fondo7{
+	background-image: url("../img/shoes_1.jpg");
+	background-size: cover;
+	height: 500px;
+}
+.fondo8{
+	background-color: #0A0A2A;
+	height: 50px;
+}
+.letra2{
+	font-size: 25px;
+	font-weight: 3px;
+	color:white;
+}
+.letra3{
+	font-size: 25px;
+	font-weight: 3px;
+	color:#0A0A2A;
+}
+.letra4{
+	font-size: 17px;
+	font-weight: 1px;
+	color:white;
+}
+.letra5{
+	font-size: 30px;
+	font-weight: 3px;
+	color:#0A0A2A;
+}
+li{
+	display: inline-block;
+	color:black;
+	padding:3%;
+}
+.espacio{
+	padding-right: 5%;
+	margin-top:3%;
+}
+.cuadro{
+	height: 200px;
+	width: 550px;
+	background-color: black;
+	opacity: 0.5;
+	color:white;
+	padding:3%;
+}
+
+.obj-center{
+	display: block;
+	margin: 5% auto;
+}
+.pd-3{
+	padding: 3%;
+}
+.pd-4{
+	padding: 4%;
+}
+.pd-1{
+	padding: 1%;
+}
+.pdt-6{
+	padding-top: 6%;
+}
+.pdb-6{
+	padding-bottom: 6%;
+}
+hr{
+	margin-top:4%;
+	margin-bottom:4%;
+}
+.img-inst{
+	width: 200px;
+	height: 175px;
+}
+
+.form{
+	width: 50%;
+	padding-left: 2%;
+
+}
+textarea{
+	height: 200px;
+}
+.ico-name {
+    background-image: url("../img/icon/avatar.png");
+    background-repeat: no-repeat;
+   	background-size: 15px 15px;
+}
+.ico-email {
+    background-image: url("../img/icon/envelope.png");
+    background-repeat: no-repeat;
+   	background-size: 15px 15px;
+}
+.ico-msg {
+    background-image: url("../img/icon/chat.png");
+    background-repeat: no-repeat;
+   	background-size: 15px 15px;
+}
+
+#input_img { 
+	position:absolute; 
+	bottom:8px; 
+	left:10px; 
+	width:10px; 
+	height:10px; 
+}
+.icon{
+	width: 15px;
+	height: 15px;
+}
+.btn4{
+	height: 50px;
+	width: 50%;
+	background-color: #0A0A2A;
+	color: white;
+	padding: 12px;
+	margin-top: 20px;
+	text-align: center;
+}

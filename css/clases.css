@@ -1,0 +1,110 @@
+/*Backgrounds*/
+.fondo1{
+	background-color:#E6E6E6;
+	height: 1000px;
+}
+.fondo8{
+	background-color: #0A0A2A;
+	height: 50px;
+}
+.foto1{
+	background-image: url("../img/dance_12.jpg");
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+}
+.foto2{
+	background-image: url("../img/breakdance.jpg");
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+}
+.foto3{
+	background-image: url("../img/lirical-jazz.jpg");
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+}
+.foto4{
+	background-image: url("../img/arabe.jpg");
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+}
+.foto5{
+	background-image: url("../img/little.jpg");
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+}
+.foto6{
+	background-image: url("../img/yoga.jpg");
+	background-size: cover;
+	width: 300px;
+	height: 400px;
+}
+.letra1{
+	font-size: 15px;
+	font-weight: 1px;
+	color:white;
+}
+.letra3{
+	font-size: 25px;
+	font-weight: 3px;
+	color:#0A0A2A;
+}
+/*Paddings*/
+.pd-1{
+	padding: 1%;
+}
+.pd-5{
+	padding: 5%;
+}
+.pd-3{
+	padding: 3%;
+}
+.pd-row{
+	padding-left: 12%;
+	padding-right: 5%;
+}
+.pd-col{
+	padding-left: 0%;
+	padding-right: 0%;
+	padding-bottom: 2%;
+	padding-top: 2%;
+}
+.pdlr{
+	padding-top: 2%;
+	padding-left: 5%;
+	padding-right: 5%;
+}
+.pd-cuadro{
+	padding: 45% 7.5%;
+}
+.white-text{
+	color:white;
+}
+h1{
+	color:#0A0A2A;
+}
+li{
+	display: inline-block;
+	color:black;
+	padding:3%;
+}
+h2{
+	color:#0A0A2A;
+}
+.clase-img{
+	width: 300px;
+	height: 400px;
+}
+.cuadro {
+    height: 100px;
+    width: 250px;
+    background-color: black;
+    opacity: 0.5;
+    color: white;
+    padding: 2%;
+}
+
